@@ -5,7 +5,7 @@ import 'package:SkeletonApp/Pages/HomeWidget.dart';
 import 'package:SkeletonApp/Pages/Photo.dart';
 import 'package:SkeletonApp/Pages/settings.dart';
 import 'package:flutter/material.dart';
-import 'package:mvc_application/view.dart';
+import 'package:mvc_pattern/mvc_pattern.dart';
 
 
 class BottomDraw extends StatefulWidget {
