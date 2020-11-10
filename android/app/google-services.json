@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "498304842042",
+    "firebase_url": "https://super-star-fde9b.firebaseio.com",
+    "project_id": "super-star-fde9b",
+    "storage_bucket": "super-star-fde9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498304842042:android:5d2fb0a51ab8c60934f803",
+        "android_client_info": {
+          "package_name": "com.risin.team_superstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498304842042-10jj57m3fjm70g5prd2l8dqfahpe8amu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfON4jC0ohfk-IQQrIy4jNhcZhdCGg-9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498304842042-10jj57m3fjm70g5prd2l8dqfahpe8amu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498304842042-csr4cd3opa3i1srgu6lois0eis7feopt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.znieczu.superstar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498304842042:android:4a341ffe4218762034f803",
+        "android_client_info": {
+          "package_name": "com.znieczu.superstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498304842042-10jj57m3fjm70g5prd2l8dqfahpe8amu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfON4jC0ohfk-IQQrIy4jNhcZhdCGg-9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498304842042-10jj57m3fjm70g5prd2l8dqfahpe8amu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498304842042-csr4cd3opa3i1srgu6lois0eis7feopt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.znieczu.superstar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498304842042:android:2922d1351cbc563b34f803",
+        "android_client_info": {
+          "package_name": "com.znieczu.superstarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498304842042-10jj57m3fjm70g5prd2l8dqfahpe8amu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfON4jC0ohfk-IQQrIy4jNhcZhdCGg-9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498304842042-10jj57m3fjm70g5prd2l8dqfahpe8amu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498304842042-csr4cd3opa3i1srgu6lois0eis7feopt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.znieczu.superstar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
